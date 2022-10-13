@@ -1,0 +1,27 @@
+body{
+    background-color:#F5F5DC
+}
+h1{
+    text-align: center; color: red
+}
+h2{
+    text-align: center; font-family:"Arial"
+}
+p,ol{
+    text-align: justify
+}
+h3{
+    font-family:"Lucida Handwriting"
+}
+h4,h5{
+    text-align: center
+}
+#li{
+    font-style: italic
+}
+img{
+    display: block; margin-bottom: auto;margin-left: auto;margin-right: auto;margin-top: 10px
+}
+h1,h2,p,h3{
+    padding-left: 20px;padding-right: 20px
+}
